@@ -26,6 +26,8 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 - [AHEAD OF AI](https://magazine.sebastianraschka.com/)
 - [a16z](https://info.a16z.com/newsletters.html)
 - [Latent Space](https://www.latent.space/)
+- [oneusefulthing](https://www.oneusefulthing.org/)
+- [every.to](https://every.to/)
 
 ### 技术向
 
